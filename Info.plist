@@ -4,4 +4,5 @@
 <key>CFBundleDisplayName</key><string>Ghost Science M3</string>
 <key>NSCameraUsageDescription</key><string>Camera access is required for AR and LiDAR scanning.</string>
 <key>NSMicrophoneUsageDescription</key><string>Microphone access is used for optional EVP audio recording.</string>
+<key>UIRequiredDeviceCapabilities</key><array><string>arkit</string></array>
 </dict></plist>
